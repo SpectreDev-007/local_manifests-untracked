@@ -2,6 +2,6 @@
 <manifest>
     <project name="CyderVII28x03/android_kernel_samsung_universal9810" path="kernel/samsung/universal9810" remote="github" revision="4.9y" />
     <project name="CyderVII28x03/android_device_samsung_universal9810-common" path="device/samsung/universal9810-common" remote="github" revision="arrow-11.0" />
-    <project name="CyderVII28x03/android_device_samsung_crownlte" path="device/samsung/crownlte" remote="github" revision="evox" />
+    <project name="CyderVII28x03/android_device_samsung_crownlte" path="device/samsung/crownlte" remote="github" revision="aosp" />
     <project name="CyderVII28x03/android_vendor_samsung" path="vendor/samsung" remote="github" revision="arrow-11.0" />
 </manifest>
