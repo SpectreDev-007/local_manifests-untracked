@@ -4,4 +4,7 @@
     <project name="CyderVII28x03/android_device_samsung_universal9810-common" path="device/samsung/universal9810-common" remote="github" revision="arrow-11.0" />
     <project name="CyderVII28x03/android_device_samsung_crownlte" path="device/samsung/crownlte" remote="github" revision="eleven" />
     <project name="CyderVII28x03/android_vendor_samsung" path="vendor/samsung" remote="github" revision="arrow-11.0" />
+    <project name="CyderVII28x03/android_vendor_google_marlin" path="vendor/google/marlin" remote="github" revision="eleven" />
+    <project name="CyderVII28x03/android_device_google_marlin" path="device/google/marlin" remote="github" revision="lineage-18.1" />
+    <project name="CyderVII28x03/android_kernel_google_marlin" path="kernel/google/marlin" remote="github" revision="11" />
 </manifest>
