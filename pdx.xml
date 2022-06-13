@@ -2,4 +2,5 @@
 <manifest>
   <project path="device/sony/pdx206" remote="github" name="SonyXperiaDev/device-sony-pdx206" revision="master" />
   <project path="device/sony/edo" remote="github" name="SonyXperiaDev/device-sony-edo" revision="master" />
+  <project path="device/sony/common" remote="github" name="SonyXperiaDev/device-sony-common" revision="master" />
 </manifest>
