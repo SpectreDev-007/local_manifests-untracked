@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project path="device/sony/pdx206" remote="github" name="SpectreDev-007/android_device_sony_pdx206" revision="main" />
-  <project path="vendor/sony/pdx206" remote="github" name="SpectreDev-007/android_vendor_sony_pdx206" revision="ssos-12.0" />
+  <project path="vendor/sony/pdx206" remote="github" name="SpectreDev-007/android_vendor_sony_pdx206" revision="main" />
   <project path="device/sony/edo-common" remote="github" name="SpectreDev-007/android_device_sony_edo-common" revision="main" />
 </manifest>
